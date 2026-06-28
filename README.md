@@ -127,8 +127,8 @@ caesar-cipher/
 ## 👨‍💻 Author
 
 **Your Name**
-- GitHub: [@YOUR_USERNAME](https://github.com/YOUR_USERNAME)
-- LinkedIn: [Your LinkedIn](https://linkedin.com/in/YOUR_PROFILE)
+- GitHub: nazneen0304(https://github.com/nazneen0304)
+- LinkedIn:Nazneen M(https://linkedin.com/in/Nazneen M)
 
 ---
 
